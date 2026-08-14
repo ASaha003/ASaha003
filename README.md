@@ -11,7 +11,7 @@ I'm a passionate developer based in India. I love exploring new technologies, so
 Here are a few of the technologies I work with:
 
 * **Languages:** Python, C, Mysql 
-* **Tools & Frameworks:** Jupyter Notebook, Git, Pandas, NumPy, TensorFlow, etc.
+* **Tools & Frameworks:** Jupyter Notebook, Git, Pandas, NumPy, TensorFlow, Linux(Ubuntu) etc.
 
 ### 🚀 Highlighted Projects
 
