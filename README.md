@@ -8,7 +8,6 @@ Hi there! 👋 I am a Computer Science enthusiast passionate about building prac
 
 ---
 
-### 🛠️ Technical Stack
 
 
 ### 🛠️ Technical Stack
