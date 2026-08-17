@@ -36,9 +36,8 @@ Hi there! 👋 I am a Computer Science enthusiast passionate about building prac
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/></a>
-  <a href="https://kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/></a>
+  <a href="https://twitter.com/ArghaSaha49" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.kaggle.com/arghasaha10" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://leetcode.com/u/Argha-003/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/sahaargha0608" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/></a>
 </p>
