@@ -11,12 +11,15 @@ I am a Computer Science enthusiast passionate about solving complex problems. My
 
 ### 🛠️ Technical Stack
 
+
+### 🛠️ Technical Stack
+
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python · C |
-| **AI & Data** | TensorFlow · Pandas · NumPy · Jupyter Notebook |
-| **Cloud & DevOps** | Linux (Ubuntu) · Git |
-| **Backend & DB** | MySQL |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
+| **AI & Data** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
+| **Cloud & DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **Backend & DB** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 
 
 
