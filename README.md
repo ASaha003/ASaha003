@@ -18,7 +18,7 @@ I am a Computer Science enthusiast passionate about solving complex problems. My
 | **Cloud & DevOps** | Linux (Ubuntu) · Git |
 | **Backend & DB** | MySQL |
 
-*(If you want to use the visual badges we set up earlier, you can easily swap out the text in the right column for your `![Name](link)` Shields.io code!)*
+
 
 ---
 
