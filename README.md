@@ -18,6 +18,8 @@ Here are a few of the technologies I work with:
 * **[Image Classification](https://github.com/ASaha003/image-classification):** A machine learning project built using Jupyter Notebook to classify and analyze image datasets.
 * **[Guess the Number](https://github.com/ASaha003/guess-the-number):** A fun and interactive Python-based logic game.
 * **[Web-Scraper-Book-Data-Extractor-Converter](https://github.com/ASaha003/Web-Scraper-Book-Data-Extractor-Converter):** An automated Python web scraper that extracts product data from e-commerce websites.
+* **[Lightweight-PDF-Audiobook](https://github.com/ASaha003/Lightweight-PDF-Audiobook):** A minimalist Python GUI tool to turn any PDF into a high-quality AI audiobook.
+
 ### 🌱 I'm currently learning
 * 
 
