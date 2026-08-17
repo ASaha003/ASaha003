@@ -1,44 +1,54 @@
-# Hi there, I'm Argha Saha! 👋
+### 👨‍💻 About Me
 
-I'm a passionate developer based in India. I love exploring new technologies, solving problems, and building projects. 
+I am a Computer Science enthusiast passionate about solving complex problems. My focus bridges the gap between [Your Area 1, e.g., low-level systems] and [Your Area 2, e.g., high-level intelligence].
 
-### 🔭 What I'm currently working on
-* Exploring Machine Learning and Artificial Intelligence.
-* Building practical projects to refine my coding skills.
-* 
+* 🔭 I'm currently working on **[Exploring Machine Learning and Artificial Intelligence.]**
+                              **[* Building practical projects to refine my coding skills.]**
 
+* 📫 How to reach me: **[sahaargha0608@gmail.com]** **[www.linkedin.com/in/argha-saha-823b49317]**
 
-### 🛠️ Languages and Tools
+---
 
-Here are a few of the technologies I work with:
+### 🛠️ Technical Stack
 
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python · C |
+| **AI & Data** | TensorFlow · Pandas · NumPy · Jupyter Notebook |
+| **Cloud & DevOps** | Linux (Ubuntu) · Git |
+| **Backend & DB** | MySQL |
 
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+*(If you want to use the visual badges we set up earlier, you can easily swap out the text in the right column for your `![Name](link)` Shields.io code!)*
 
-### 🚀 Highlighted Projects
+---
+
+### 🚀 Featured Projects
 
 * **[Image Classification](https://github.com/ASaha003/image-classification):** A machine learning project built using Jupyter Notebook to classify and analyze image datasets.
 * **[Guess the Number](https://github.com/ASaha003/guess-the-number):** A fun and interactive Python-based logic game.
 * **[Web-Scraper-Book-Data-Extractor-Converter](https://github.com/ASaha003/Web-Scraper-Book-Data-Extractor-Converter):** An automated Python e-commerce product scraper.
 * **[Lightweight-PDF-Audiobook](https://github.com/ASaha003/Lightweight-PDF-Audiobook):** A minimalist Python GUI tool to turn any PDF into a high-quality AI audiobook.
 
-### 🌱 I'm currently learning
-* 
+---
 
-### 📫 How to reach me
-* **Email:** sahaargha0608@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/argha-saha-823b49317/
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Streak" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</p>
 
 ---
-⭐️ *Thanks for visiting my profile!*
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/></a>
+  <a href="https://kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/></a>
+</p>
