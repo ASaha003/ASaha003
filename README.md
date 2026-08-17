@@ -1,11 +1,10 @@
 ### 👨‍💻 About Me
 
-I am a Computer Science enthusiast passionate about solving complex problems. My focus bridges the gap between [Your Area 1, e.g., low-level systems] and [Your Area 2, e.g., high-level intelligence].
+Hi there! 👋 I am a Computer Science enthusiast passionate about building practical software solutions and diving deep into the world of data.
 
-* 🔭 I'm currently working on **[Exploring Machine Learning and Artificial Intelligence.]**
-                              **[* Building practical projects to refine my coding skills.]**
-
-* 📫 How to reach me: **[sahaargha0608@gmail.com]** **[www.linkedin.com/in/argha-saha-823b49317]**
+* 🔭 **Currently focusing on:** Refining my coding skills through hands-on projects.
+* 🧠 **Exploring:** Machine Learning and Artificial Intelligence.
+* 📫 **Let's connect:** [Email Me](mailto:sahaargha0608@gmail.com) • [LinkedIn](https://www.linkedin.com/in/argha-saha-823b49317)
 
 ---
 
