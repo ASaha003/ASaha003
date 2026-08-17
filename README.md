@@ -7,11 +7,14 @@ I'm a passionate developer based in India. I love exploring new technologies, so
 * Building practical projects to refine my coding skills.
 * 
 
+
 ### 🛠️ Languages and Tools
+
 Here are a few of the technologies I work with:
 
-* **Languages:** Python, C, Mysql 
-* **Tools & Frameworks:** Jupyter Notebook, Git, Pandas, NumPy, TensorFlow, Linux(Ubuntu) etc.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,jupyter,git,pandas,numpy,tensorflow,linux" alt="My Skills" />
+</p>
 
 ### 🚀 Highlighted Projects
 
